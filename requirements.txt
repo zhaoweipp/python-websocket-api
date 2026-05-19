@@ -1,0 +1,5 @@
+apiflask
+flask
+python-socketio
+pyserial
+uvicorn
